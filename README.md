@@ -20,6 +20,12 @@
 * [csstriggers](https://csstriggers.com/)
 * [调试 CSS Keyframe 动画 - 裕波](https://www.w3ctech.com/topic/1472)
 
+### chrome
+* [从Chrome源码看浏览器的事件机制 - 李银城](https://zhuanlan.zhihu.com/p/25095179)
+* [从Chrome源码看浏览器如何计算CSS - 李银城](https://zhuanlan.zhihu.com/p/25380611)
+* [从Chrome源码看浏览器如何构建DOM树 - 李银城](https://zhuanlan.zhihu.com/p/24911872)
+* [从Chrome源码看浏览器如何layout布局 - 李银城](https://zhuanlan.zhihu.com/p/25445527)
+
 ### RxJS
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑 - 徐飞](https://zhuanlan.zhihu.com/p/23305264)
 
