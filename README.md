@@ -42,3 +42,5 @@
 ### ios
 
 * [多方位全面解析：如何正确地写好一个界面](http://www.cocoachina.com/design/20151225/14789.html)
+* [Weex 是如何在 iOS 客户端上跑起来的 - halfrost](http://www.jianshu.com/p/41cde2c62b81)
+* [iOS 组件化 —— 路由设计思路分析 - halfrost](http://www.jianshu.com/p/76da56b3bd55)
