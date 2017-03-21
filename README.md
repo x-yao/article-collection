@@ -18,6 +18,7 @@
 ### canvas
 
 * [Canvas 最佳实践（性能篇）- 叶斋](http://taobaofed.org/blog/2016/02/22/canvas-performance/)
+* [Canvas学习（系列） -大漠](https://github.com/airen/Canvas101)
 
 ### CSS 动画与性能
 * [CSS硬件加速的好与坏 - 敏明君](http://efe.baidu.com/blog/hardware-accelerated-css-the-nice-vs-the-naughty/)
