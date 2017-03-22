@@ -14,6 +14,7 @@
 ### Vue
 * [Vue.js 的实用技巧（一） - cinwell](https://zhuanlan.zhihu.com/p/25589193)
 * [Vue.js 实用技巧（二） - cinwell](https://zhuanlan.zhihu.com/p/25623356)
+* [解析vue2.0的diff算法 - aoyo](https://segmentfault.com/a/1190000008782928)
 
 ### canvas
 
