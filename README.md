@@ -5,6 +5,9 @@
 
 主要分类是前端，程序，设计，其他。在大类下的小类基本是以某个技术关键词区分没有太认真的分类。个人会保证文章质量是个人觉得比较好的或者有收获的，如果有什么意见建议可以提issue。
 
+*斜体*代表官方文档
+**加粗**代表官方指南
+
 ## 前端
 
 ### PWA
@@ -45,3 +48,9 @@
 * [多方位全面解析：如何正确地写好一个界面](http://www.cocoachina.com/design/20151225/14789.html)
 * [Weex 是如何在 iOS 客户端上跑起来的 - halfrost](http://www.jianshu.com/p/41cde2c62b81)
 * [iOS 组件化 —— 路由设计思路分析 - halfrost](http://www.jianshu.com/p/76da56b3bd55)
+* [**Quartz 2D Programming Guide**](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007533-SW1)
+* [*coregraphics*](https://developer.apple.com/reference/coregraphics)
+
+### 算法
+
+* [图论算法 有图有代码 万字总结 向前辈致敬 - nomasp](http://blog.csdn.net/nomasp/article/details/45827145)
