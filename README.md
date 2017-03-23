@@ -29,6 +29,9 @@
 * [csstriggers](https://csstriggers.com/)
 * [调试 CSS Keyframe 动画 - 裕波](https://www.w3ctech.com/topic/1472)
 
+### 性能
+* [移动Web滚动性能优化: Passive event listeners - justjavac](https://zhuanlan.zhihu.com/p/24555031)
+
 ### chrome
 * [从Chrome源码看浏览器的事件机制 - 李银城](https://zhuanlan.zhihu.com/p/25095179)
 * [从Chrome源码看浏览器如何计算CSS - 李银城](https://zhuanlan.zhihu.com/p/25380611)
