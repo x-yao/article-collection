@@ -43,6 +43,8 @@
 
 ### MVVM
 * [250行实现一个简单的MVVM - lovin0730](https://lovin0730.github.io/2016/12/19/simple-mvvm/)
+* [深度剖析：如何实现一个 Virtual DOM 算法 - 戴嘉华](https://segmentfault.com/a/1190000004029168)
+
 
 ## 程序
 
