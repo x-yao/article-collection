@@ -59,3 +59,7 @@
 ### 算法
 
 * [图论算法 有图有代码 万字总结 向前辈致敬 - nomasp](http://blog.csdn.net/nomasp/article/details/45827145)
+
+### 开源
+
+* [如何向开源项目提交无法解答的问题 - 偏右](https://zhuanlan.zhihu.com/p/25795393)
