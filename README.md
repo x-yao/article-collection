@@ -31,6 +31,7 @@
 
 ### 性能
 * [移动Web滚动性能优化: Passive event listeners - justjavac](https://zhuanlan.zhihu.com/p/24555031)
+* [High Performance Networking in Google Chrome - Ilya Grigorik](https://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
 
 ### chrome
 * [从Chrome源码看浏览器的事件机制 - 李银城](https://zhuanlan.zhihu.com/p/25095179)
