@@ -18,6 +18,7 @@
 * [Vue.js 的实用技巧（一） - cinwell](https://zhuanlan.zhihu.com/p/25589193)
 * [Vue.js 实用技巧（二） - cinwell](https://zhuanlan.zhihu.com/p/25623356)
 * [解析vue2.0的diff算法 - aoyo](https://segmentfault.com/a/1190000008782928)
+* [7 Ways To Define A Component Template in Vue.js（en） - GORE](http://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/)
 
 ### canvas
 
