@@ -64,3 +64,7 @@
 ### 开源
 
 * [如何向开源项目提交无法解答的问题 - 偏右](https://zhuanlan.zhihu.com/p/25795393)
+
+### HTTP
+
+* [[译]使用HTTP/2提升性能的7个建议 - 李松峰](https://www.w3ctech.com/topic/1563)
