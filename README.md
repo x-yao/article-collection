@@ -53,10 +53,17 @@
 ### ios
 
 * [多方位全面解析：如何正确地写好一个界面](http://www.cocoachina.com/design/20151225/14789.html)
-* [Weex 是如何在 iOS 客户端上跑起来的 - halfrost](http://www.jianshu.com/p/41cde2c62b81)
 * [iOS 组件化 —— 路由设计思路分析 - halfrost](http://www.jianshu.com/p/76da56b3bd55)
 * [**Quartz 2D Programming Guide**](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007533-SW1)
 * [*coregraphics*](https://developer.apple.com/reference/coregraphics)
+
+### Weex
+* [由FlexBox算法强力驱动的Weex布局引擎 -一缕殇流化隐半边冰霜](http://www.jianshu.com/p/d085032d4788)
+* [Weex 是如何在 iOS 客户端上跑起来的 - halfrost](http://www.jianshu.com/p/41cde2c62b81)
+
+### JSBridge
+* [JSBridge——Web与Native交互之iOS篇 - 王干](http://www.jianshu.com/p/9fd80b785de1)
+* [ 优秀开源代码解读之JS与iOS Native Code互调的优雅实现方案 - vinoYang](http://blog.csdn.net/yanghua_kobe/article/details/8209751)
 
 ### 算法
 
