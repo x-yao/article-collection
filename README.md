@@ -19,6 +19,8 @@
 * [Vue.js 实用技巧（二） - cinwell](https://zhuanlan.zhihu.com/p/25623356)
 * [解析vue2.0的diff算法 - aoyo](https://segmentfault.com/a/1190000008782928)
 * [7 Ways To Define A Component Template in Vue.js（en） - GORE](http://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/)
+* [Vue.js 2.2 CheatSheet](https://vuejs-tips.github.io/cheatsheet/)
+
 
 ### canvas
 
@@ -33,6 +35,8 @@
 ### 性能
 * [移动Web滚动性能优化: Passive event listeners - justjavac](https://zhuanlan.zhihu.com/p/24555031)
 * [High Performance Networking in Google Chrome - Ilya Grigorik](https://www.igvita.com/posa/high-performance-networking-in-google-chrome/)
+* [前端性能优化の备忘录(2017版) - 流浪大法师](https://www.w3ctech.com/topic/1945)
+
 
 ### chrome
 * [从Chrome源码看浏览器的事件机制 - 李银城](https://zhuanlan.zhihu.com/p/25095179)
@@ -47,6 +51,8 @@
 * [250行实现一个简单的MVVM - lovin0730](https://lovin0730.github.io/2016/12/19/simple-mvvm/)
 * [深度剖析：如何实现一个 Virtual DOM 算法 - 戴嘉华](https://segmentfault.com/a/1190000004029168)
 
+### 布局
+* [获取隐藏元素的高度 - 王昱森](https://imys.net/20161208/get-height-of-hidden-element.html?utm_source=tuicool&utm_medium=referral)
 
 ## 程序
 
@@ -68,6 +74,8 @@
 ### 算法
 
 * [图论算法 有图有代码 万字总结 向前辈致敬 - nomasp](http://blog.csdn.net/nomasp/article/details/45827145)
+* [JS中可能用得到的全部的排序算法 - 路易斯](https://juejin.im/post/58c9d5fb1b69e6006b686bce)
+
 
 ### 开源
 
