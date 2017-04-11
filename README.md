@@ -54,6 +54,9 @@
 ### 布局
 * [获取隐藏元素的高度 - 王昱森](https://imys.net/20161208/get-height-of-hidden-element.html?utm_source=tuicool&utm_medium=referral)
 
+### JavaScript
+* [React:ES6 & ES7中的6种this绑定方法 - dwqs](https://github.com/dwqs/blog/issues/10)
+
 ## 程序
 
 ### ios
