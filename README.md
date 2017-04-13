@@ -43,6 +43,8 @@
 * [从Chrome源码看浏览器如何计算CSS - 李银城](https://zhuanlan.zhihu.com/p/25380611)
 * [从Chrome源码看浏览器如何构建DOM树 - 李银城](https://zhuanlan.zhihu.com/p/24911872)
 * [从Chrome源码看浏览器如何layout布局 - 李银城](https://zhuanlan.zhihu.com/p/25445527)
+* [（更新）从Chrome源码看JS Object的实现 - 李银城](https://zhuanlan.zhihu.com/p/26169639)
+
 
 ### RxJS
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑 - 徐飞](https://zhuanlan.zhihu.com/p/23305264)
