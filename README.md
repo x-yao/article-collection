@@ -59,6 +59,8 @@
 ### JavaScript
 * [React:ES6 & ES7中的6种this绑定方法 - dwqs](https://github.com/dwqs/blog/issues/10)
 * [如何写出好的 JavaScript —— 浅谈 API 设计 - 十年踪迹](https://www.h5jun.com/post/how-to-write-better-js-code.html)
+* [前端基础进阶（十四）：es6常用基础合集 - 波同学](http://www.jianshu.com/p/cfb0893c34f1)
+
 
 ## 程序
 
