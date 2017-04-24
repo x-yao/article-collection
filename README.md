@@ -61,6 +61,9 @@
 * [如何写出好的 JavaScript —— 浅谈 API 设计 - 十年踪迹](https://www.h5jun.com/post/how-to-write-better-js-code.html)
 * [前端基础进阶（十四）：es6常用基础合集 - 波同学](http://www.jianshu.com/p/cfb0893c34f1)
 
+### node
+* [进阶调试-debugger - chyingp](https://github.com/chyingp/nodejs-learning-guide/blob/master/%E6%A8%A1%E5%9D%97/debug.md)
+
 
 ## 程序
 
