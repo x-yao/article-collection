@@ -21,6 +21,8 @@
 * [7 Ways To Define A Component Template in Vue.js（en） - GORE](http://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/)
 * [Vue.js 2.2 CheatSheet](https://vuejs-tips.github.io/cheatsheet/)
 
+### HTML5
+* [HTML5 进阶系列：indexedDB 数据库 - 林鑫](https://zhuanlan.zhihu.com/p/26639553)
 
 ### canvas
 
