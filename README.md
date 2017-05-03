@@ -100,3 +100,4 @@
 ### HTTP
 
 * [[译]使用HTTP/2提升性能的7个建议 - 李松峰](https://www.w3ctech.com/topic/1563)
+* [HTTP访问控制（CORS - MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
