@@ -20,6 +20,7 @@
 * [解析vue2.0的diff算法 - aoyo](https://segmentfault.com/a/1190000008782928)
 * [7 Ways To Define A Component Template in Vue.js（en） - GORE](http://vuejsdevelopers.com/2017/03/24/vue-js-component-templates/)
 * [Vue.js 2.2 CheatSheet](https://vuejs-tips.github.io/cheatsheet/)
+* [Vue2.1.7源码学习 - HcySunYang](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
 
 ### HTML5
 * [HTML5 进阶系列：indexedDB 数据库 - 林鑫](https://zhuanlan.zhihu.com/p/26639553)
