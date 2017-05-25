@@ -67,6 +67,8 @@
 ### node
 * [进阶调试-debugger - chyingp](https://github.com/chyingp/nodejs-learning-guide/blob/master/%E6%A8%A1%E5%9D%97/debug.md)
 
+### React
+* [Immutable 详解及 React 中实践 - camsong](https://zhuanlan.zhihu.com/p/20295971?columnSlug=purerender)
 
 ## 程序
 
